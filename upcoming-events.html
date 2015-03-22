@@ -9,12 +9,11 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">    
     <link href="css/prettyPhoto.css" rel="stylesheet"> 
-    <link href="css/flexslider.css" rel="stylesheet">
     <link href="css/sc-player-standard.css" rel="stylesheet">
-	<link href="css/main.css" rel="stylesheet">
-	<link href="css/responsive.css" rel="stylesheet">
-	<link href="css/presets/preset1.css" id="preset" rel="stylesheet" type="text/css">
-	<link href="css/switcher.css" rel="stylesheet" type="text/css">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/presets/preset1.css" id="preset" rel="stylesheet" type="text/css">
+    <link href="css/switcher.css" rel="stylesheet" type="text/css">
 
     <!--[if lt IE 9]>
 	    <script src="js/html5shiv.js"></script>
@@ -46,11 +45,11 @@
             		<div class="col-sm-9">
             			<nav class="navbar-right collapse navbar-collapse">
 		                    <ul class="nav navbar-nav">                                                                     
-		                        <li><a class="active" href="index.html">Home</a></li>
-		                        <li><a href="upcoming-events.html">Upcoming Events</a></li>
+		                        <li><a href="index.html">Home</a></li>
+		                        <li><a class="active" href="upcoming-events.html">Upcoming Events</a></li>
                                 <li><a href="past-events.html">Past Events</a></li>                         
                                 <li><a href="about-us.html">About Us</a></li>
-		                        <li><a href="contact-us.html">Contact Us </a></li>                               
+		                        <li><a href="contact-us.html">Contact Us </a></li>                              
 		                    </ul>
 		                </nav>
             		</div>
@@ -59,105 +58,50 @@
         </div>
     </header> <!--/#navigation-->
 
-    <section id="home">
-    	<div class="container">
-
-    		<ul id="countdown">
-				<li>
-					<p>Only</p>
-					<span class="days time-font">00</span>
-					<p>days, </p>
-				</li>
-				<li>
-					<span class="hours time-font">00</span>
-					<p class="">hours, </p>
-				</li>
-				<li>
-					<span class="minutes time-font">00</span>
-					<p class="">minutes and</p>
-				</li>
-				
-				<li>
-					<span class="seconds time-font">00</span>
-					<p class="">seconds left until</p>
-				</li>				
-			</ul>	
-			<h1>Shwayze!</h1>
-			<a href="https://www.facebook.com/events/1571572753129874/">GRAB YOUR TICKET</a>
-    	</div>    	
-    </section><!--/#home-->
-
-    <section id="welcome">
-    	<div class="container">
-    		<div class="row">
-    			<div class="col-md-6">
-	    			<div class="summer-fastival">
-	    				<div class="col-md-12">
-		    				<h2>Welcome to BF Productions!</h2>
-		    				<p>BF Productions, also known as Brent Freed Productions, brings the unforgettable concert experiences to college campuses near UC Berkeley, the origin of our group. From rap to rock and roll, and from theaters to churches, BF Productions works to provide live entertainment for students and Bay Area residents to enjoy. Stay tuned for exciting shows to be announced soon!</p>
-		    			</div>
-		    		</div>
-    			</div>  
-                <div class="col-md-6">
-                    <div class="single-event latest-post">
-                        <h2 class="heading"><strong>Past Events</strong></h2>
-                        <div class="media">
-                            <div class="pull-left">
-                                <a href="http://www.thirstproject.org/"><img src="images/home/post1.jpg" alt=""></a>
-                                <div class="date">
-                                    <p><span>06 </span>Mar </p>
-                                </div>							    
-                            </div>
-                            <div class="media-body">
-                               <a href="http://www.thirstproject.org/"><h3 class="media-heading">Drake Bell - Thirst Project</h3></a>
-                               <div class="post-meta">
-                                    <center><span><a href="http://www.thirstproject.org/"> More Information</a></span></center>
-                               </div>
-                            </div>							
-                        </div>
-                        <div class="media">
-                            <div class="pull-left">
-                                <a href="https://www.facebook.com/events/569750673151001/"><img src="images/home/post2.jpg" alt=""></a>
-                                <div class="date">
-                                    <p><span>2</span>Dec </p>
-                                </div>							    
-                            </div>
-                            <div class="media-body">
-                                <a href="https://www.facebook.com/events/569750673151001/"><h3 class="media-heading">Sean Kingston - Berkley's Star 2014</h3></a>
-                               <div class="post-meta">
-                                    <center><span><a href="https://www.facebook.com/events/569750673151001/"> More Information</a></span></center>
-                               </div>
-                            </div>							
-                        </div>
+    <div id="latest-events">
+        <div class="container">
+            <div class="event-inner">               
+                <div class="row">                    
+                    <div id="latest-event-content" class="col-sm-7 col-md-12">
+                        <div class="bg">
+                            <h2 class="heading">Latest <strong>Events</strong></h2 >                           
+                            <article class="latest-event">
+                                <div class="tab-image">
+                                    <img class="img-responsive" src="images/latest-events/event1.jpg" alt="">
+                                </div>
+                                <div class="tab">                                     
+                                    <ul>
+                                        <li class="active"><a href=".date-tab1" data-toggle="tab"><span>Apr</span> 20 </a></li>
+                                        <li><a href=".map-tab1" data-toggle="tab"><i class="fa fa-map-marker"></i></a></li>
+                                        <li><a href=".cart-tab1" data-toggle="tab"><i class="fa fa-shopping-cart"></i></a></li>
+                                    </ul>
+                                </div> 
+                                <div class="tab-content event-details">
+                                    <div class="tab-pane active date-tab1">
+                                        <h3 class="media-heading">Proud to be Berkeley</h3>
+                                        <ul class="event-content">
+                                            <li><span class="heading-side">Location:</span><span class="info-side">Berkeley Underground, <br>Berkeley, CA</span></li>
+                                            <li><span class="heading-side">Date:</span><span class="info-side">April 20, 2015</span></li>
+                                            <li><span class="heading-side">Time:</span><span class="info-side">06:00 PM PDT</span></li>
+                                            <li><span class="heading-side">Ticket Price:</span><span class="info-side">$18</span></li>
+                                        </ul>
+                                    </div>
+                                    <div class="tab-pane map-tab1">
+                                        <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Hotel+albergo+al+veccho+tram&amp;aq=&amp;sll=39.614152,-101.002808&amp;sspn=2.369694,5.377808&amp;ie=UTF8&amp;hq=&amp;hnear=&amp;ll=46.059718,13.233127&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></iframe>
+                                    </div> 
+                                    <div class="tab-pane cart-tab1">
+                                        <h3 class="media-heading">Proud to be Berkeley</h3>
+                                        <p>Ticket Price: $18</p>
+                                        <a class="btn btn-primary btn-purchase" href="#">Buy Pre-Sale Ticket</a>
+                                    </div>                                     
+                                </div> 
+                            </article>
+                        </div>                                       
                     </div>
-                </div> 
-    		</div>
-    	</div>
-    </section><!--/#welcome-->
-
-    
-    <section id="events">
-    	<div class="container">
-    		<div class="row">
-    			<div class="col-sm-12 col-md-12">
-    				<div class="single-event">
-    					<h2 class="heading">Upcoming <strong>Events</strong></h2>
-    					<div class="media">
-							<a class="pull-left" href="#">
-							    <img class="media-object" src="images/home/event1.jpg" alt="">
-							</a>
-							<div class="media-body">
-							    <h3 class="media-heading">Proud to be Berkeley</h3>
-							    <p>BF Productions is to proud to host the official 4.20 concert "Proud to be Berkeley" featuring Shwayze and UC Berkeley student, Onye Ohiaeri, at Berkeley Underground.</p>
-							</div>
-							<a class="view-info" href="https://www.facebook.com/events/1571572753129874/"><span>Join the Facebook Event</span></a>
-							<a class="view-info" href="https://www.facebook.com/events/1571572753129874/"><span>Buy Ticket</span></a>
-						</div>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
-    </section><!--/#events-->
+                </div>                          
+            </div>
+        </div>
+    </div>
 
    	<footer id="footer-wrapper">
         <div class="container">
@@ -206,45 +150,16 @@
         </div>    
     </footer><!--/#footer-widget-->
 
-    
+
     <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/sc-player.js"></script> 
-    <script type="text/javascript" src="js/soundcloud.player.api.js"></script> 
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="js/soundcloud.player.api.js"></script>
+    <script type="text/javascript" src="js/sc-player.js"></script> 
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript" src="js/coundown-timer.js"></script>
-   	<script type="text/javascript" src="js/jquery.flexslider.js"></script>
-   	<script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
-   	<script type="text/javascript" src="js/switcher.js"></script>
-	<script type="text/javascript">
-		jQuery(document).ready(function($){
-			$(window).load(function() {
-				// The slider being synced must be initialized first
-				$('#carousel').flexslider({
-					animation: "slide",
-					controlNav: false,
-					animationLoop: false,
-					slideshow: false,
-					itemWidth: 41,
-					itemMargin: 0,
-					asNavFor: '#slider'
-				});
-
-				$('#slider').flexslider({
-					directionNav: false,
-					animation: "fade",
-					controlNav: false,
-					animationLoop: false,
-					slideshow: false,
-					sync: "#carousel"
-				});
-			});
-		});
-		
-	</script>
-
-
+    <script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
+    <script type="text/javascript" src="js/switcher.js"></script>
 </body>
 </html>
