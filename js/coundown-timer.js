@@ -18,8 +18,8 @@
 		//main countdown function
 		function countdown_proc() {
 			
-			eventDate = 1429527600;
-                //new Date("March 24, 2015 12:00:00");
+			eventDate = 1429578000;
+                
 			currentDate = Math.floor(Date.now() / 1000);
 			
 			if(eventDate <= currentDate) {
