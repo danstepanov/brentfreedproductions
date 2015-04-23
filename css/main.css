@@ -492,7 +492,11 @@ ul.sub-menu{
 
 .summer-fastival {
   background:rgba(0, 0, 0, 0.8);
+<<<<<<< HEAD
   height: 340px;
+=======
+  height: 388px;
+>>>>>>> 0726b319c10e34261916898a1642245e9d83aad4
   margin-top: 25px;
   padding: 25px;
 }
