@@ -7,18 +7,18 @@
     <meta name="author" content="">
     <title>BF Productions</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">    
-    <link href="css/prettyPhoto.css" rel="stylesheet"> 
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
     <link href="css/flexslider.css" rel="stylesheet">
     <link href="css/sc-player-standard.css" rel="stylesheet">
 	<link href="css/main.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
 	<link href="css/presets/preset1.css" id="preset" rel="stylesheet" type="text/css">
-	
+
     <!--[if lt IE 9]>
 	    <script src="js/html5shiv.js"></script>
 	    <script src="js/respond.min.js"></script>
-    <![endif]-->       
+    <![endif]-->
     <link rel="icon" type="image/gif" href="http://upload.wikimedia.org/wikipedia/commons/0/01/MaverickEyes_Favicon_Image.gif">
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
@@ -28,7 +28,7 @@
 </head><!--/head-->
 
 <body>
-	<header id="navigation">      
+	<header id="navigation">
         <div class="navbar" role="banner">
             <div class="container">
             	<div class="row">
@@ -45,16 +45,16 @@
             		</div>
             		<div class="col-sm-9">
             			<nav class="navbar-right collapse navbar-collapse">
-		                    <ul class="nav navbar-nav">                                                                     
+		                    <ul class="nav navbar-nav">
 		                        <li><a class="active" href="index.html">Home</a></li>
 		                        <li><a href="upcoming-events.html">Upcoming Events</a></li>
-                                <li><a href="past-events.html">Past Events</a></li>                         
+                                <li><a href="past-events.html">Past Events</a></li>
                                 <li><a href="about-us.html">About Us</a></li>
-		                        <li><a href="contact-us.html">Contact Us </a></li>                               
+		                        <li><a href="contact-us.html">Contact Us </a></li>
 		                    </ul>
 		                </nav>
             		</div>
-            	</div> 
+            	</div>
             </div>
         </div>
     </header> <!--/#navigation-->
@@ -76,15 +76,16 @@
 					<span class="minutes time-font">00</span>
 					<p class="">minutes and</p>
 				</li>
-				
+
 				<li>
 					<span class="seconds time-font">00</span>
 					<p class="">seconds left until</p>
-				</li>				
-			</ul>	
+				</li>
+			</ul>
+
 			<h1>Our Next Show!</h1>
 			<a href="upcoming-events.html">Check it Out!</a>
-    	</div>    	
+    	</div>
     </section><!--/#home-->
 
     <section id="welcome">
@@ -94,20 +95,17 @@
 	    			<div class="summer-fastival">
 	    				<div class="col-md-12">
 		    				<h2>Welcome to BF Productions!</h2>
-		    				<p>BF Productions strives to bring college students’ favorite music performers to their campuses. Our shows excite audiences with unique venues, also providing opportunities for talented students to perform on the same bill as world-famous celebrities.</p> 
+		    				<p>BF Productions strives to bring college students’ favorite music performers to their campuses. Our shows excite audiences with unique venues, also providing opportunities for talented students to perform on the same bill as world-famous celebrities.</p>
 
-<p>BF Productions brings a new way for students to enjoy their free time in college. We organize and promote concerts on or near college campuses. With strong relationships with performers and venues, BF Productions will be able to keep costs low, allowing students to enjoy a show with a low ticket price. Instead of competing with events organized by the school, we supplement the entertainment schedule featuring a wide range of musical genres and other shows. This will be more than just a spectator event, BF Productions takes a special interest in creating a special immerse experience for each concert. Because we feel a responsibility to the larger community, we encourage student groups to use our concerts as a vehicle for philanthropic events. BF Productions wants to create strong relationships with locally owned businesses, churches, parks, as well as the usual concert venue.  </p>
+                            <p>BF Productions brings a new way for students to enjoy their free time in college. We organize and promote concerts on or near college campuses. With strong relationships with performers and venues, BF Productions will be able to keep costs low, allowing students to enjoy a show with a low ticket price. Instead of competing with events organized by the school, we supplement the entertainment schedule featuring a wide range of musical genres and other shows. This will be more than just a spectator event, BF Productions takes a special interest in creating a special immerse experience for each concert. Because we feel a responsibility to the larger community, we encourage student groups to use our concerts as a vehicle for philanthropic events. BF Productions wants to create strong relationships with locally owned businesses, churches, parks, as well as the usual concert venue.  </p>
 		    			</div>
 		    		</div>
-    			</div>  
+    			</div>
 
     		</div>
     	</div>
     </section><!--/#welcome-->
-
-    
     <section id="events">
-<!--
         <div class="container">
     		<div class="row">
     			<div class="col-sm-12 col-md-12">
@@ -118,18 +116,17 @@
 							    <img class="media-object" src="images/home/event1.jpg" alt="">
 							</a>
 							<div class="media-body">
-							    <h3 class="media-heading">Proud to be Berkeley</h3>
-							    <p>BF Productions is to proud to host the official 4.20 concert "Proud to be Berkeley" featuring Shwayze, UC Berkeley student Onye Ohiaeri, Dillon Rupp and Skate Maloley at Pappy's Bar & Grill.</p>
+							    <h3 class="media-heading">Aaron's Party</h3>
+							    <p>In accordance with UC Berekeley Hillel, BF Productions is to proud to host Aaron Carter and Grant Genske!</p>
 							</div>
-							<a class="view-info" href="https://www.facebook.com/events/1571572753129874/"><span>Join the Facebook Event</span></a>
+							<a class="view-info" href="https://www.facebook.com/events/1594803140777318/"><span>Join the Facebook Event</span></a>
 							<a class="view-info" href="upcoming-events.html"><span>More Information</span></a>
 						</div>
     				</div>
     			</div>
     		</div>
     	</div>
--->
-
+    </section>
         <div class="container">
             <div class="row">
             <div class="col-md-12 col-md-12">
@@ -140,56 +137,74 @@
                             <a href="past-events.html"><img src="images/home/event1.jpg" alt=""></a>
                             <div class="date">
                                 <p><span>20</span>Apr </p>
-                            </div>							    
+                            </div>
                         </div>
                         <div class="media-body">
                             <a href="past-events.html"><h3 class="media-heading">Proud to be Berkeley feat Shwayze</h3></a>
                            <div class="post-meta">
                                 <span><a href="past-events.html"> More Information</a></span>
                            </div>
-                        </div>							
+
+                        </div>
                     </div>
                     <div class="media">
                         <div class="pull-left">
                             <a href="past-events.html"><img src="images/home/kapslap.png" alt=""></a>
                             <div class="date">
                                 <p><span>18 </span>Apr </p>
-                            </div>							    
+                            </div>
                         </div>
                         <div class="media-body">
                            <a href="past-events.html"><h3 class="media-heading">Cal Day with Kap Slap</h3></a>
                            <div class="post-meta">
                                 <span><a href="past-events.html"> More Information</a></span>
                            </div>
-                        </div>							
+
+                        </div>
                     </div>
                     <div class="media">
                         <div class="pull-left">
                             <a href="past-events.html"><img src="images/home/post1.jpg" alt=""></a>
                             <div class="date">
                                 <p><span>06 </span>Mar </p>
-                            </div>							    
+<<<<<<< HEAD:index.html
+                            </div>
+=======
+                            </div>
+>>>>>>> master:index.php
                         </div>
                         <div class="media-body">
                            <a href="past-events.html"><h3 class="media-heading">Drake Bell - Thirst Project</h3></a>
                            <div class="post-meta">
                                 <span><a href="past-events.html"> More Information</a></span>
                            </div>
-                        </div>							
+<<<<<<< HEAD:index.html
+                        </div>
+=======
+                        </div>
+>>>>>>> master:index.php
                     </div>
                     <div class="media">
                         <div class="pull-left">
                             <a href="past-events.html"><img src="images/home/post2.jpg" alt=""></a>
                             <div class="date">
                                 <p><span>2</span>Dec </p>
-                            </div>							    
+<<<<<<< HEAD:index.html
+                            </div>
+=======
+                            </div>
+>>>>>>> master:index.php
                         </div>
                         <div class="media-body">
                             <a href="past-events.html"><h3 class="media-heading">Sean Kingston - Berkley's Star 2014</h3></a>
                            <div class="post-meta">
                                 <span><a href="past-events.html"> More Information</a></span>
                            </div>
-                        </div>							
+<<<<<<< HEAD:index.html
+                        </div>
+=======
+                        </div>
+>>>>>>> master:index.php
                     </div>
                 </div>
             </div>
@@ -206,7 +221,7 @@
                             <div class="twitter-updates">
                                  <h3>BF PRODUCTIONS</h3>
                                 <p>We hope you find everything you're looking for and if you have any questions, please feel free to reach out to us via the "Contact Us" page.</p>
-                            </div>                                              
+                            </div>
                         </div>
                         <div class="col-sm-6 col-md-3 col-md-offset-1">
                             <div class="quick-links">
@@ -222,27 +237,27 @@
                                     <a href="https://www.facebook.com/brentfreedproductions?ref=br_tf"><i class="fa fa-facebook"></i></a>
                                     <a href="https://instagram.com/bfproductions_/"><i class="fa fa-instagram"></i></a>
                                 </div>
-                            </div>                          
+                            </div>
                         </div>
                         <div class="col-sm-12 col-md-4">
                             <div class="news-letter">
                                 <h3>Want to get Involved?</h3>
                                 <p>We're always looking for amazing talent so if you're interested, please reach out to <a href="contact-us.html">us</a>!</p>
-                            </div>                          
+                            </div>
                         </div>
                     </div>
                     <div class="footer text-center bg">
-                        <p>Site maintained by <a href="http://www.danstepanov.com/">Dan Stepanov</a> </p> 
+                        <p>Site maintained by <a href="http://www.danstepanov.com/">Dan Stepanov</a> </p>
                     </div><!--/#footer-->
-                </div>                
+                </div>
             </div>
-        </div>    
+        </div>
     </footer><!--/#footer-widget-->
 
-    
+
     <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/sc-player.js"></script> 
-    <script type="text/javascript" src="js/soundcloud.player.api.js"></script> 
+    <script type="text/javascript" src="js/sc-player.js"></script>
+    <script type="text/javascript" src="js/soundcloud.player.api.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
     <script type="text/javascript" src="js/jquery.fitvids.js"></script>
@@ -275,7 +290,7 @@
 				});
 			});
 		});
-		
+
 	</script>
 
 

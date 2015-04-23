@@ -4,13 +4,13 @@ jQuery(function($) {'use strict',
 	 $("a[data-gallery^='prettyPhoto']").prettyPhoto({
 	  social_tools: false
 	 });
-	 
+
 	//Countdown js
 	$("#countdown").countdown({
 			date: "20 april 2015 6:00:00",
 			format: "on"
 	},
-		
+
 	function() {
 			// callback function
 	});
@@ -24,6 +24,7 @@ jQuery(function($) {'use strict',
 	});
 
 	//backstretch slide for main body
+
 	$.backstretch([ "images/slide/bg2.png","images/slide/drakebell.png","images/slide/bg3.png"], {fade: 750,duration: 3000});
 
 	// Feature Tab Content

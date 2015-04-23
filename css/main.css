@@ -23,7 +23,7 @@ body {
 .btn.btn-primary,
 button {
     color: #fff;
-    border: none;  
+    border: none;
     font-size: 22px;
     font-weight: 700;
     text-transform: uppercase;
@@ -33,11 +33,11 @@ button {
   margin-top: 20px;
 }
 
-.navbar-nav li a:hover, 
+.navbar-nav li a:hover,
 .navbar-nav li a:focus {
   outline:none;
   outline-offset: 0;
-  text-decoration:none;  
+  text-decoration:none;
   background: transparent;
 }
 
@@ -48,7 +48,7 @@ a {
   transition: 300ms;
 }
 
-a:focus, 
+a:focus,
 a:hover {
   text-decoration: none;
   outline: none
@@ -117,12 +117,12 @@ iframe{
   line-height: 85px;
 }
 
-#navigation .open a, 
-#navigation .open a:hover, 
-#navigation .open a:focus, 
-#navigation .navbar-nav li a.active, 
-#navigation .navbar-nav li a:focus, 
-#navigation .navbar-nav li a:active, 
+#navigation .open a,
+#navigation .open a:hover,
+#navigation .open a:focus,
+#navigation .navbar-nav li a.active,
+#navigation .navbar-nav li a:focus,
+#navigation .navbar-nav li a:active,
 #navigation .navbar-nav li a:hover {
   background:transparent;
 }
@@ -140,12 +140,12 @@ iframe{
   bottom: 25px;
 }
 
-#navigation .navbar-nav li a:focus .fa-angle-down, 
-#navigation .navbar-nav li a:hover .fa-angle-down { 
+#navigation .navbar-nav li a:focus .fa-angle-down,
+#navigation .navbar-nav li a:hover .fa-angle-down {
   opacity: 1
 }
 
-.navbar-header 
+.navbar-header
 .navbar-toggle .icon-bar {
     background-color: #fff;
 }
@@ -241,7 +241,7 @@ ul.sub-menu{
   margin-bottom: 20px
 }
 
-.news-letter, 
+.news-letter,
 .twitter-updates {
   padding:0 35px
 }
@@ -264,7 +264,7 @@ ul.sub-menu{
   font-size: 16px
 }
 
-.quick-links .social-link i {  
+.quick-links .social-link i {
   height: 40px;
   line-height: 40px;
   text-align: center;
@@ -340,7 +340,7 @@ ul.sub-menu{
   list-style: none;
 }
 
-#countdown p, 
+#countdown p,
 #countdown .time-font {
   float: left;
   font-size: 24px;
@@ -372,22 +372,22 @@ ul.sub-menu{
 }
 
 
-.left-perfomer-control:active, 
-.right-perfomer-control:active, 
-.right-perfomer-control:focus, 
-.left-perfomer-control:focus, 
-.left-perfomer-control:hover, 
+.left-perfomer-control:active,
+.right-perfomer-control:active,
+.right-perfomer-control:focus,
+.left-perfomer-control:focus,
+.left-perfomer-control:hover,
 .right-perfomer-control:hover {
   outline: none;
 }
 
 
-.left-perfomer-control, 
+.left-perfomer-control,
 .right-perfomer-control {
   color: #FFFFFF;
   font-size: 25px;
   position: absolute;
-  top: -72px;  
+  top: -72px;
 }
 
 
@@ -403,7 +403,7 @@ ul.sub-menu{
 
 .single-performer {
   height:411px;
-  width: 100%;  
+  width: 100%;
 }
 
 .single-performer h3 {
@@ -445,12 +445,12 @@ ul.sub-menu{
   position: relative;
 }
 
-.item .perfomer-wrapper:hover 
+.item .perfomer-wrapper:hover
 .single-performer h3 {
   display: none;
 }
 
-.item .perfomer-wrapper:hover .overlay {   
+.item .perfomer-wrapper:hover .overlay {
   opacity: 1
 }
 
@@ -475,7 +475,7 @@ ul.sub-menu{
 
 .overlay p {
   font-size: 16px;
-  font-weight: 400;  
+  font-weight: 400;
 }
 
 .social-icons {
@@ -492,7 +492,8 @@ ul.sub-menu{
 
 .summer-fastival {
   background:rgba(0, 0, 0, 0.8);
-  height: 340px;
+
+  height: 388px;
   margin-top: 25px;
   padding: 25px;
 }
@@ -500,7 +501,7 @@ ul.sub-menu{
 .summer-fastival h2 {
   font-size: 30px;
   font-weight: 700;
-  margin-top: 0;  
+  margin-top: 0;
 }
 
 .summer-fastival p {
@@ -510,7 +511,7 @@ ul.sub-menu{
 }
 
 
-#main-contact-form .btn-primary, 
+#main-contact-form .btn-primary,
 .buy-ticket {
   border: 0 none;
   color: #FFFFFF;
@@ -605,7 +606,7 @@ ul.sub-menu{
   margin-right: 10px;
 }
 
-.single-event 
+.single-event
 .media-object {
   margin-right: 15px;
 }
@@ -634,7 +635,7 @@ ul.sub-menu{
 }
 
 
-.small-date ul { 
+.small-date ul {
   margin: 0;
   padding: 0;
 }
@@ -654,8 +655,8 @@ ul.sub-menu{
   border: 0;
 }
 
-.small-date ul li a:hover, 
-.small-date ul li a:focus, 
+.small-date ul li a:hover,
+.small-date ul li a:focus,
 .small-date ul li a:active {
   outline: none;
   text-decoration: none;
@@ -666,14 +667,14 @@ ul.sub-menu{
 }
 
 
-.latest-event 
+.latest-event
 .event-content {
   padding: 0;
   background-color:transparent ;
-  height: auto;  
+  height: auto;
 }
 
-.latest-event 
+.latest-event
 .event-content li {
   list-style: none;
   font-size: 18px;
@@ -682,8 +683,8 @@ ul.sub-menu{
   text-align: left;
 }
 
-.latest-event 
-.event-content 
+.latest-event
+.event-content
 .heading-side {
   float: left;
   width: 45%;
@@ -691,8 +692,8 @@ ul.sub-menu{
   display: block;
 }
 
-.latest-event 
-.event-content 
+.latest-event
+.event-content
 .info-side {
   overflow: hidden;
   display: block;
@@ -828,7 +829,7 @@ ul.sub-menu{
   padding: 0 80px
 }
 
-.sopnsor-right-control, 
+.sopnsor-right-control,
 .sopnsor-left-control {
   position: absolute;
   color: #fff;
@@ -839,7 +840,7 @@ ul.sub-menu{
 .sopnsor-right-control {
   right: 35px;
   top: 28px;
-} 
+}
 
 .sopnsor-left-control {
   right: 50px;
@@ -911,15 +912,15 @@ ul.sub-menu{
   padding:8px 21px;
 }
 
-.pagination li:last-child a, 
-.pagination li:last-child span, 
-.pagination li:first-child a, 
+.pagination li:last-child a,
+.pagination li:last-child span,
+.pagination li:first-child a,
 .pagination li:first-child span {
   border-radius: 0;
   border-radius: 0;
 }
 
-.pager li a:hover, 
+.pager li a:hover,
 .pager li a:focus {
   outline: none;
 }
@@ -964,7 +965,7 @@ ul.sub-menu{
 .author-info {
   margin-top: 45px
 }
- 
+
 .author-info .media-heading {
   font-size: 24px;
   margin-bottom:15px;
@@ -977,7 +978,7 @@ ul.sub-menu{
 }
 
 
-.comments .media .pull-left, 
+.comments .media .pull-left,
 .author-info .media .pull-left {
   margin-right: 30px;
   position: relative;
@@ -1065,8 +1066,8 @@ ul.sub-menu{
   color: #fff
 }
 
-.widget ul li a:active, 
-.widget ul li a:focus, 
+.widget ul li a:active,
+.widget ul li a:focus,
 .widget ul li a:hover {
    outline: none;
    text-decoration: none;
@@ -1091,7 +1092,7 @@ ul.sub-menu{
   margin-bottom: 25px
 }
 
-.contact-info .heading, 
+.contact-info .heading,
 .contact-form .heading {
   text-transform: capitalize;
 }
@@ -1100,13 +1101,13 @@ ul.sub-menu{
   margin-bottom: 20px;
 }
 
-#contact-page 
+#contact-page
 .form-control::-moz-placeholder {
   color: #8D8D8D;
 }
 
 
-.comment-box .form-control, 
+.comment-box .form-control,
 #contact-page .form-control {
   background-color: #000000;
   border: 1px solid #656462;
@@ -1119,7 +1120,7 @@ ul.sub-menu{
   box-shadow:inherit;
 }
 
-.comment-box #message, 
+.comment-box #message,
 #contact-page #message {
   height:160px;
   resize:none;
@@ -1130,8 +1131,8 @@ ul.sub-menu{
   margin-top: 20px;
 }
 
-.comment-box .form-control:focus, 
-#contact-page  
+.comment-box .form-control:focus,
+#contact-page
 .form-control:focus {
   box-shadow: inherit;
 }
@@ -1203,7 +1204,7 @@ ul.sub-menu{
 }
 
 
-.latest-tour h2, 
+.latest-tour h2,
 #team-member h2 {
   margin-bottom: 30px
 }
@@ -1285,9 +1286,9 @@ ul.sub-menu{
   margin-left: 0;
 }
 
-#latest-event-content 
+#latest-event-content
 .latest-event {
-  font-size: 0;  
+  font-size: 0;
   margin-bottom: 20px;
   display: flex;
   overflow: hidden;
@@ -1299,12 +1300,12 @@ ul.sub-menu{
 }
 
 
-.latest-event:hover .event-details, 
+.latest-event:hover .event-details,
 #latest-event-content .latest-event:hover .tab .active {
   background-color: #fff;
 }
 
- 
+
 #latest-event-content
 .latest-event:hover .tab .active a {
   color:#E24B2E
@@ -1316,11 +1317,11 @@ ul.sub-menu{
 }
 
 
-#latest-event-content 
-.latest-event:hover p, 
-#latest-event-content 
-.latest-event:hover .heading-side, 
-#latest-event-content 
+#latest-event-content
+.latest-event:hover p,
+#latest-event-content
+.latest-event:hover .heading-side,
+#latest-event-content
 .latest-event:hover .info-side {
   color: #3a3a3a
 }
@@ -1335,8 +1336,8 @@ ul.sub-menu{
   }
 
 
-.latest-event .tab-image, 
-.latest-event .tab, 
+.latest-event .tab-image,
+.latest-event .tab,
 .latest-event .event-details {
   display: inline-block;
   overflow: hidden;
@@ -1464,13 +1465,13 @@ ul.sub-menu{
   color: #fff;
 }
 
-.vip .price, 
+.vip .price,
 .regular .price {
   font-size: 30px
 }
 
-.xplore .price, 
-.rock .price, 
+.xplore .price,
+.rock .price,
 .classic .price {
   font-size: 48px
 }
@@ -1487,7 +1488,7 @@ ul.sub-menu{
   height: 288px;
   margin-top: -21px;
   position: relative;
-  width:200px;  
+  width:200px;
   margin-right: 25px
 }
 
@@ -1495,14 +1496,14 @@ ul.sub-menu{
   height: 320px;
   margin-top: -42px;
   position: relative;
-  width: 232px;   
+  width: 232px;
   margin-right: 25px;
 }
 
-.rock h2, 
+.rock h2,
 .rock .price-content {
   color: #fff
-}   
+}
 
 .xplore {
   height: 288px;
@@ -1513,9 +1514,9 @@ ul.sub-menu{
 }
 
 .vip {
-  height: 249px; 
+  height: 249px;
   width: 172px;
-  position: relative;  
+  position: relative;
 }
 
 .price-content {
@@ -1528,7 +1529,7 @@ ul.sub-menu{
 .regular-price .btn-pricing {
   border:none;
   font-weight: 800;
-  color: #FFFFFF;  
+  color: #FFFFFF;
   position: absolute;
   text-transform: uppercase;
   left: 25%;
@@ -1536,7 +1537,7 @@ ul.sub-menu{
   font-size: 14px
 }
 
-.regular .regular-price .btn-pricing {  
+.regular .regular-price .btn-pricing {
   bottom: -40px;
 }
 
@@ -1852,8 +1853,8 @@ ul.sub-menu{
 .back-to ul li {
   border-bottom: 1px solid#fff;
   text-decoration: none;
-  list-style: none; 
-  margin-bottom: 10px 
+  list-style: none;
+  margin-bottom: 10px
 }
 
 .back-to ul li i {
@@ -1866,7 +1867,7 @@ ul.sub-menu{
 
 .back-to .pull-right {
   width: 45%
-} 
+}
 
 .back-to ul li a {
     color:#E0E0E0;
