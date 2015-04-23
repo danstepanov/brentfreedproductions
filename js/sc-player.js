@@ -3,10 +3,10 @@
 *   Author: JoomSHaper.com, support@joomshaper.com
 *   Copyright (c) 2014 JoomShaper.
 *   Licensed under the MIT license:
-*   http://www.opensource.org/licenses/mit-license.php
+*   https://www.opensource.org/licenses/mit-license.php
 *
 *   Usage:
-*   <a href="http://soundcloud.com/matas/hobnotropic" class="sc-player">My new dub track</a>
+*   <a href="https://soundcloud.com/matas/hobnotropic" class="sc-player">My new dub track</a>
 *   The link will be automatically replaced by the HTML based player
 */
 (function($) {
@@ -57,7 +57,7 @@
 
         // force the secure url in the secure environment
         if( secureDocument ) {
-          url = url.replace(/^http:/, 'https:');
+          url = url.replace(/^https:/, 'https:');
         }
 
         // check if it's already a resolved api url
@@ -608,7 +608,7 @@
     randomize: false,
     loadArtworks: 5,
     // the default Api key should be replaced by your own one
-    // get it here http://soundcloud.com/you/apps/new
+    // get it here https://soundcloud.com/you/apps/new
     apiKey: 'htuiRd1JP11Ww0X72T1C3g'
   };
 

@@ -19,7 +19,7 @@
 	    <script src="js/html5shiv.js"></script>
 	    <script src="js/respond.min.js"></script>
     <![endif]-->
-    <link rel="icon" type="image/gif" href="http://upload.wikimedia.org/wikipedia/commons/0/01/MaverickEyes_Favicon_Image.gif">
+    <link rel="icon" type="image/gif" href="https://upload.wikimedia.org/wikipedia/commons/0/01/MaverickEyes_Favicon_Image.gif">
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
@@ -167,44 +167,30 @@
                             <a href="past-events.html"><img src="images/home/post1.jpg" alt=""></a>
                             <div class="date">
                                 <p><span>06 </span>Mar </p>
-<<<<<<< HEAD:index.html
+
                             </div>
-=======
-                            </div>
->>>>>>> master:index.php
+
                         </div>
                         <div class="media-body">
                            <a href="past-events.html"><h3 class="media-heading">Drake Bell - Thirst Project</h3></a>
                            <div class="post-meta">
                                 <span><a href="past-events.html"> More Information</a></span>
                            </div>
-<<<<<<< HEAD:index.html
                         </div>
-=======
-                        </div>
->>>>>>> master:index.php
                     </div>
                     <div class="media">
                         <div class="pull-left">
                             <a href="past-events.html"><img src="images/home/post2.jpg" alt=""></a>
                             <div class="date">
                                 <p><span>2</span>Dec </p>
-<<<<<<< HEAD:index.html
                             </div>
-=======
-                            </div>
->>>>>>> master:index.php
                         </div>
                         <div class="media-body">
                             <a href="past-events.html"><h3 class="media-heading">Sean Kingston - Berkley's Star 2014</h3></a>
                            <div class="post-meta">
                                 <span><a href="past-events.html"> More Information</a></span>
                            </div>
-<<<<<<< HEAD:index.html
                         </div>
-=======
-                        </div>
->>>>>>> master:index.php
                     </div>
                 </div>
             </div>
@@ -247,7 +233,7 @@
                         </div>
                     </div>
                     <div class="footer text-center bg">
-                        <p>Site maintained by <a href="http://www.danstepanov.com/">Dan Stepanov</a> </p>
+                        <p>Site maintained by <a href="https://www.danstepanov.com/">Dan Stepanov</a> </p>
                     </div><!--/#footer-->
                 </div>
             </div>
@@ -266,6 +252,7 @@
    	<script type="text/javascript" src="js/jquery.flexslider.js"></script>
    	<script type="text/javascript" src="js/jquery.backstretch.min.js"></script>
    	<script type="text/javascript" src="js/switcher.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=geometry"></script>
 	<script type="text/javascript">
 		jQuery(document).ready(function($){
 			$(window).load(function() {

@@ -41,7 +41,7 @@ jQuery(function($) {'use strict',
 		backgroundColor: '#3e8bff',
 	});
 
-	var styles = [ 
+	var styles = [
 
 	{
 		"featureType": "road",
@@ -82,7 +82,7 @@ jQuery(function($) {'use strict',
 	map.addStyle({
 		styledMapName:"Styled Map",
 		styles: styles,
-		mapTypeId: "map_style"  
+		mapTypeId: "map_style"
 	});
 
 	map.setStyle("map_style");
