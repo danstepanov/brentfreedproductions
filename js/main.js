@@ -24,8 +24,8 @@ jQuery(function($) {'use strict',
 	});
 
 	//backstretch slide for main body
-
-	$.backstretch([ "images/slide/howie.jpg","images/slide/aaron.png", "images/slide/bg2.png","images/slide/drakebell.png","images/slide/bg3.png"], {fade: 750,duration: 3000});
+    $.backstretch(["images/slide/drakebell.png"]);
+	//$.backstretch([ "images/slide/howie.jpg","images/slide/aaron.png", "images/slide/bg2.png","images/slide/drakebell.png","images/slide/bg3.png"], {fade: 750,duration: 3000});
 
 	// Feature Tab Content
 	$('.features-nav li').on('click',function(){'use strict',
