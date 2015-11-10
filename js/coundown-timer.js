@@ -18,7 +18,8 @@
 		//main countdown function
 		function countdown_proc() {
 
-			eventDate = 1441587600;
+			// use http://www.epochconverter.com/ to calculate based on local time
+			eventDate = 1449327600;
 
 			currentDate = Math.floor(Date.now() / 1000);
 
